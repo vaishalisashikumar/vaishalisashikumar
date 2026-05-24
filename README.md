@@ -1,35 +1,35 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi,%20I'm%20Vaishali!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Engineer%20%7C%20AI%20Enthusiast%20%7C%20Chennai&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Vaishali&fontSize=60&fontColor=d4b8ff&animation=fadeIn&fontAlignY=40&desc=%20AI%20Explorer%20%E2%80%A2%20Chennai&descSize=17&descAlignY=62&descFontColor=9d7fc7" width="100%"/>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vaishali-sashi-kumar/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/vaishalisashii" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=vaishalisashikumar&style=for-the-badge&color=blueviolet" />
+  <img src="https://komarev.com/ghpvc/?username=vaishalisashikumar&style=for-the-badge&color=9b59b6"/>
 </p>
 
 ---
 
 ### 👩‍💻 About Me
 
-- 🏢 **Data Engineer** at **Hexaware Technologies**, Siruseri SIPCOT IT Park, Chennai
-- 🎓 Fresh grad — AI & Data Science, Panimalar Engineering College (2026)
-- 🔭 Currently building **DLT pipelines** and **Medallion Architecture** (Bronze → Silver → Gold)
-- 🌱 Working on a personal **RAG (Retrieval-Augmented Generation)** project
-- 🤖 Deeply curious about **LLMs, AI systems**, and the future of intelligent data pipelines
-- 🎯 Long-term goal: **Masters in AI/Data Science** in the UK or Ireland
-- ✍️ Content creator — cultural commentary, beauty & lifestyle **[@vaishalisashii](https://www.instagram.com/vaishalisashii)**
-- 💬 Ask me about **PySpark, Delta Lake, Azure Databricks, or kdramas** — equally passionate about all
+- 🏢 **GET** @ Hexaware Technologies, Chennai
+- 🎓 AI & Data Science grad — Panimalar Engineering College (2026)
+- 🔭 I'm currently working on **DLT Medallion Pipelines** and a personal **RAG project**
+- 👯 I'm looking to collaborate on **GETing, open source pipelines, or AI/ML projects**
+- 🤝 I'm looking for help with **LLM fine-tuning and MLOps best practices**
+- 🌱 I'm currently learning **LLM internals, AI theory, and DSA**
+- 💬 Ask me about **PySpark · Delta Lake · Azure Databricks · Unity Catalog · kdramas**
+- ⚡ Fun fact: **Chennai girl who codes by day and creates content by night**
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Data Engineering**
+**GETing**
 
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Delta Lake](https://img.shields.io/badge/Delta%20Lake-003366?style=for-the-badge&logo=databricks&logoColor=white)
@@ -51,36 +51,30 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🚀 Currently Working On
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaishalisashikumar&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishalisashikumar&layout=compact&theme=radical&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishalisashikumar&theme=radical&hide_border=true" />
-</p>
+| | |
+|---|---|
+| 🏗️ **Building** | DLT Medallion Pipelines · RAG Project (personal) |
+| 📚 **Learning** | LLMs · AI theory · DSA patterns |
+| 🛠️ **Stack** | PySpark · Delta Lake · Azure Databricks · Unity Catalog |
+| 🌍 **Based in** | Chennai, India |
 
 ---
 
-### 🚀 Currently Working On
+### 📊 GitHub Metrics
 
-```python
-vaishali = {
-    "role"     : "GET @ Hexaware Technologies",
-    "learning" : ["LLMs", "AI theory", "DSA patterns"],
-    "stack"    : ["PySpark", "Delta Lake", "Azure Databricks", "Unity Catalog"]
-}
-```
+<p align="center">
+  <img src="/metrics.general.svg" />
+</p>
+
+<p align="center">
+  <img src="/metrics.achievements.svg" />
+</p>
 
 ---
 
 ### 📫 Let's Connect
-
-<p align="center">
-  Open to collaborations, data engineering discussions, or just a good kdrama recommendation 👇
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vaishali-sashi-kumar/" target="_blank">
@@ -93,9 +87,5 @@ vaishali = {
 </p>
 
 <p align="center">
-  <i>✨ Always happy to chat about data, AI, or Chennai life!</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 </p>
