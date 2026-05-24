@@ -68,9 +68,9 @@
 
 ```python
 vaishali = {
-    "role"      : "GET @ Hexaware Technologies",
-    "learning"  : ["LLMs", "AI theory", "DSA patterns"],
-    "stack"     : ["PySpark", "Delta Lake", "Azure Databricks", "Unity Catalog"],
+    "role"     : "GET @ Hexaware Technologies",
+    "learning" : ["LLMs", "AI theory", "DSA patterns"],
+    "stack"    : ["PySpark", "Delta Lake", "Azure Databricks", "Unity Catalog"]
 }
 ```
 
