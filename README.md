@@ -68,10 +68,10 @@
 </td>
 <td width="50%" valign="top">
 
-### 🎓 Studying At
+### 🎓 Studied At
 # '26
 **Panimalar Engineering College**
-B.E. AI & Data Science
+B.Tech. AI & Data Science
 
 </td>
 </tr>
