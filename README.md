@@ -16,7 +16,7 @@
 
 ### 👩‍💻 About Me
 
-- 🏢 **Data Engineer** at **Hexaware Technologies**, Siruseri SIPCOT IT Park, Chennai
+- 🏢 **Data Engineer** at **Hexaware Technologies**, Chennai
 - 🎓 Fresh grad — AI & Data Science, Panimalar Engineering College (2026)
 - 🔭 Currently building **DLT pipelines** and **Medallion Architecture** (Bronze → Silver → Gold)
 - 🌱 Working on a personal **RAG (Retrieval-Augmented Generation)** project
@@ -54,12 +54,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaishalisashikumar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishalisashikumar&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vaishalisashikumar&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishalisashikumar&layout=compact&theme=radical&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishalisashikumar&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishalisashikumar&theme=radical&hide_border=true" />
 </p>
 
 ---
@@ -69,11 +69,9 @@
 ```python
 vaishali = {
     "role"      : "Data Engineer @ Hexaware Technologies",
-    "building"  : ["DLT Medallion Pipelines", "RAG Project (personal)"],
     "learning"  : ["LLMs", "AI theory", "DSA patterns"],
-    "stack"     : ["PySpark", "Delta Lake", "Azure Databricks", "Unity Catalog"],
-    "goal"      : "Masters in AI/Data Science → UK or Ireland",
-    "fun_fact"  : "My best-performing reel hit 50K+ views 🎉"
+    "stack"     : ["PySpark", "Delta Lake", "Azure Databricks", "Unity Catalog"]
+    
 }
 ```
 
