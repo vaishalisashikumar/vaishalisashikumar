@@ -16,7 +16,7 @@
 
 ### 👩‍💻 About Me
 
-- 🏢 **Data Engineer** at **Hexaware Technologies**, Chennai
+- 🏢 **Data Engineer** at **Hexaware Technologies**, Siruseri SIPCOT IT Park, Chennai
 - 🎓 Fresh grad — AI & Data Science, Panimalar Engineering College (2026)
 - 🔭 Currently building **DLT pipelines** and **Medallion Architecture** (Bronze → Silver → Gold)
 - 🌱 Working on a personal **RAG (Retrieval-Augmented Generation)** project
@@ -68,10 +68,9 @@
 
 ```python
 vaishali = {
-    "role"      : "Data Engineer @ Hexaware Technologies",
+    "role"      : "GET @ Hexaware Technologies",
     "learning"  : ["LLMs", "AI theory", "DSA patterns"],
-    "stack"     : ["PySpark", "Delta Lake", "Azure Databricks", "Unity Catalog"]
-    
+    "stack"     : ["PySpark", "Delta Lake", "Azure Databricks", "Unity Catalog"],
 }
 ```
 
