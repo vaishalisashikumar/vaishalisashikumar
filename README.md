@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vaishalisashikumar" target="_blank">
+  <a href="https://www.linkedin.com/in/vaishali-sashi-kumar/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/vaishalisashii" target="_blank">
@@ -82,10 +82,21 @@ vaishali = {
 ### 📫 Let's Connect
 
 <p align="center">
-  Feel free to reach out for collaborations, data engineering discussions, or just to say hi!<br/><br/>
-  <a href="https://www.linkedin.com/in/vaishalisashikumar">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  Open to collaborations, data engineering discussions, or just a good kdrama recommendation 👇
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vaishali-sashi-kumar/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  &nbsp;
+  <a href="https://www.instagram.com/vaishalisashii" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%40vaishalisashii-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>✨ Always happy to chat about data, AI, or Chennai life!</i>
 </p>
 
 <p align="center">
